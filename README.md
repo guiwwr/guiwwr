@@ -1,8 +1,8 @@
-### 🙂 Hello I'm Guilherme Oliveira
+### ☕ Hello I'm Guilherme Oliveira
 
-- 🧪 I'm currently studying Front-End;
-- 📚 I'm currently learning React.js;
-- 💭 I'm in pursuit of my dreams as a programmer;
+- 🧪 I'm Front End Developer;
+- 📚 I'm currently studying React.js;
+- 💭 I'm in pursuit of my dreams as a programmer.
 
 <div align="center">
   <a href="https://github.com/guiolivrdev">
