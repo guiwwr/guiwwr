@@ -16,7 +16,7 @@
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/63/02/9c/63029ce678cf2aaaffe663d40f524032.jpg">
+  <img align="right" alt="Gui-pic" height="135" style="border-radius:35px;" src="https://media.discordapp.net/attachments/1034531909293834362/1037028006532755548/df65cdd4df1ebd3406770b58b6dbbca7.png?width=427&height=427">
 </div>
   
   ##
